@@ -1,6 +1,7 @@
 {
   "name": "todo",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Todo Manager front-end: Vue 3 + Vite + TypeScript + Tailwind v4 + Pinia + Axios, installable PWA",
   "private": true,
   "type": "module",
   "scripts": {
