@@ -37,3 +37,14 @@ __screenshots__/
 
 # Vite
 *.timestamp-*-*.mjs
+
+# TWA and Signing Keys
+/twa/
+*.jks
+*.keystore
+*.properties
+assetlinks.json.draft
+
+# Android Build Output
+build/
+.gradle/

@@ -1,4 +1,17 @@
 {
+  "compilerOptions": {
+    "types": [
+      "vite/client",
+      "vite-plugin-pwa/client",
+      "node"
+    ]
+  },
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.vue",
+    "vite.config.ts"
+  ],
+  // files to check
   "files": [],
   "references": [
     {
